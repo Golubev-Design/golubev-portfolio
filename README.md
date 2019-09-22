@@ -2,29 +2,27 @@
 В этом репозитории можно найти список проектов в которых я участвовал,
 ссылки на них и полную информацию по используемым в них технологиям. 
 
-DIST и SRC своих проектов, работодателей и заказчиков в открытый доступ не выкладываю.  
-
 ### Содержание:
 + [Последние проекты](#last)
-  + [Front-end](#last)
+    + [Front-end](#last)
+        + Angular
+        + React
+        + Gulp   
+    + [WebGL](#last)
+        + three.js
+        + SideFX: Houdini
++ [Примеры кода](#last)
     + Angular
-    + React
-    + Gulp   
-  + [WebGL](#last)
-    + three.js
-    + SideFX: Houdini
-  + [Примеры кода](#last)
-    + Angular
-    + JavaScript
-    + TypeScript
-    + Паттерны
+    + JavaScript, ES, TS
+    + e2e & unit tests
+    + CI / CD
 + [Таблица скилов](#last)
-+ Контакты
++ [Контакты](#last)
 + [Архив старых проектов](#last)
-  + JavaScript & JQuery
-  + PHP & WordPress
-  + SQL
-  + Дизайн
+    + JavaScript & JQuery
+    + PHP & WordPress
+    + SQL
+    + Дизайн
 
 ## <a name="last"></a> Последние проекты
 ### Front-end
@@ -49,6 +47,47 @@ Particular |`three.js`| [gov/readme.md](http://example.com/)
 ### Примеры кода
 
 ## Таблица скилов
+
+### Front-end
+Навыки и технологии | Количество проектов
+--- | ---
+ES / TS | 6
+RxJS / Observable / Promises | 3
+Angular 8 | 6
+Gulp | 3
+React | 2
+Unit tests / e2e | 1
+Protractor / Jasmine / Karma | 1
+HTML5 / SCSS / Bootstrap | 75+
+JavaScript | 20
+JQuery + Ajax | 10
+WebGL / Three.JS | 4
+Node.js | 6
+npm / yarn | 10
+CI/CD | 10
+
+### Manage
+Навыки и технологии | Количество проектов
+--- | ---
+Git | 16
+Agile / Scrum / Kanban | 8
+OOP / COP / MVC / SOLID / RESTful | 6
+
+### Другие навыки
+Навыки и технологии  | Количество проектов
+--- | ---
+NoSQL | 10
+MongoDB | 3
+WordPress | 30
+PHP7 | 40
+SQL | 200+
+SAP | 150+
+Google Analytics  | 10
+Yandex Metrica | 10
+SEO | 10
+wysiwyg | 20+
+Figma | 15
+Photoshop | 60+
 
 ## Контакты
 
