@@ -123,4 +123,12 @@ AstraZeneca Support | `CTMS` | [old-projects/astrazeneca.md](./old-projects/astr
 
 ## <a name="contacts"></a> Контакты
 
-Моё резюме на HH: https://hh.ru/resume/647fce3cff05ba8efe0039ed1f506263564e6f
+<b>Александр Голубев</b> <br>
+FrontEnd Team Lead
+
+Тел: +7 (926) 018-36-30 <br>
+Email: ruagbag@gmail.com <br>
+VK: https://vk.com/id7015345 <br>
+Резюме на HH: https://hh.ru/resume/647fce3cff05ba8efe0039ed1f506263564e6f <br>
+Habr Carrier: 
+
