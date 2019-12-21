@@ -31,25 +31,25 @@
 ### Последние проекты (Frontend 2018+)
 Проект|Платформа|Мои часы <br>на проекте|О проекте
 :-----|---------|:---------------------:|---------
-[gov.design](http://gov.design/) |`Angular`|1200+| [last-projects/gov.design.md](./last-projects/gov.design.md)
-[smena.me](http://smena.me/) |`Angular`| 400+ | [last-projects/smena.md](./last-projects/smena.md)
-[standart.gov.design](http://standart.gov.design/) |`Angular`| 200+ | [last-projects/standart.md](./last-projects/standart.md)
-[digital.ac.gov.ru](https://digital.ac.gov.ru/) |`Angular`| 300+ |[last-projects/digital.ac.md](./last-projects/digital.ac.md)
-[digital.ac.gov.ru](https://digital.ac.gov.ru/) |`Gulp`| 60+ | [last-projects/digital.ac.md](./last-projects/digital.ac.md)
-[rspp.ru](http://www.rspp.ru/) |`Gulp`| 300+ | [last-projects/rspp.md](./last-projects/rspp.md)|
+[gov.design](http://gov.design/) |`Angular`|1200+| [last/gov.design.md](last/gov.design.md)
+[smena.me](http://smena.me/) |`Angular`| 400+ | [last/smena.md](last/smena.md)
+[standart.gov.design](http://standart.gov.design/) |`Angular`| 200+ | [last/standart.md](last/standart.md)
+[digital.ac.gov.ru](https://digital.ac.gov.ru/) |`Angular`| 300+ |[last/digital.ac.md](last/digital.ac.md)
+[digital.ac.gov.ru](https://digital.ac.gov.ru/) |`Gulp`| 60+ | [last/digital.ac.md](last/digital.ac.md)
+[rspp.ru](http://www.rspp.ru/) |`Gulp`| 300+ | [last/rspp.md](last/rspp.md)|
 
 
 ### <a name="old"></a> Старые проекты (2010-2017)
 Проект|Платформа|О проекте
 ------|---------|---------
-[cloudmakers.ru](https://cloudmakers.ru/) | `WordPress` | [old-projects/cloudmakers.md](./old-projects/cloudmakers.md)
-[drsmart.me](https://drsmart.me/) | `WordPress` | [old-projects/drsmart.md](./old-projects/drsmart.md)
-[sevmuseum.ru](http://sevmuseum.ru/) | `WordPress` | [old-projects/sevmuseum.md](./old-projects/sevmuseum.md)
-magazine.astellas.com | `WordPress` | [old-projects/astellas.md](./old-projects/astellas.md)
-AstraZeneca Payment | `SAP BI` | [old-projects/astrazeneca.md](./old-projects/astrazeneca.md)
-AstraZeneca KPI Monitor | `SAP BI` | [old-projects/astrazeneca.md](./old-projects/astrazeneca.md)
-AstraZeneca SAP BI | `SAP BI` | [old-projects/astrazeneca.md](./old-projects/astrazeneca.md)
-AstraZeneca Support | `CTMS` | [old-projects/astrazeneca.md](./old-projects/astrazeneca.md)
+[cloudmakers.ru](https://cloudmakers.ru/) | `WordPress` | [old/cloudmakers.md](old/cloudmakers.md)
+[drsmart.me](https://drsmart.me/) | `WordPress` | [old/drsmart.md](old/drsmart.md)
+[sevmuseum.ru](http://sevmuseum.ru/) | `WordPress` | [old/sevmuseum.md](old/sevmuseum.md)
+magazine.astellas.com | `WordPress` | [old/astellas.md](old/astellas.md)
+AstraZeneca Payment | `SAP BI` | [old/astrazeneca.md](old/astrazeneca.md)
+AstraZeneca KPI Monitor | `SAP BI` | [old/astrazeneca.md](old/astrazeneca.md)
+AstraZeneca SAP BI | `SAP BI` | [old/astrazeneca.md](old/astrazeneca.md)
+AstraZeneca Support | `CTMS` | [old/astrazeneca.md](old/astrazeneca.md)
 
 ## <a name="examples"></a> Примеры кода
 
