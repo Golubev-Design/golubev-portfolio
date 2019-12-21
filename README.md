@@ -14,7 +14,16 @@
         + UX, UI Design
         + SAP BI
 + [Примеры кода](#code)
-+ [Таблица скилов](#skills)
++ [Навыки и технологии](#skills)
+    + Code
+    + Frameworks
+    + Testing Frameworks
+    + ServerLess
+    + CMS & BackEnd
+    + Development & deploy
+    + 3D Development
+    + Analytics
+    + Design
 + [Контакты](#contacts)
 
 ## <a name="last"></a> Проекты
@@ -43,7 +52,7 @@ AstraZeneca Support | `CTMS` | [old-projects/astrazeneca.md](./old-projects/astr
 
 ## <a name="code"></a> Примеры кода
 
-## <a name="skills"></a> Skill set
+## <a name="skills"></a> Навыки и технологии
 ### Code
 + JavaScript
 + ECMAScript 
@@ -70,10 +79,15 @@ AstraZeneca Support | `CTMS` | [old-projects/astrazeneca.md](./old-projects/astr
 + Karma
 + Jasmine
 
-### Serverless
+### ServerLess
 + NoSQL
 + MongoDB / Atlas / Stitch
 + Firebase
+
+### CMS & BackEnd
++ WordPress
++ Bitrix
++ PHP7
 
 ### Development & deploy
 + npm / yarn
@@ -94,16 +108,18 @@ AstraZeneca Support | `CTMS` | [old-projects/astrazeneca.md](./old-projects/astr
 + C4D
 + RedShift
 
-### Other skills
-+ WordPress / Bitrix
-+ PHP7
+### Analytics
 + SQL / SAP SQL
 + SAP BI | BO
 + MS Power BI | MS Power Query SQL | MS Excel
 + Google Analytics
 + Yandex Metrica
 + SEO
-+ Figma / Photoshop / Sketch
+
+### Design
++ Figma
++ Photoshop
++ Sketch
 
 ## <a name="contacts"></a> Контакты
 
