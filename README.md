@@ -13,7 +13,7 @@
         + WordPress PHP7
         + UX, UI Design
         + SAP BI
-+ [Примеры кода](#code)
++ [Примеры кода](#examples)
 + [Навыки и технологии](#skills)
     + Code
     + Frameworks
@@ -50,7 +50,7 @@ AstraZeneca KPI Monitor | `SAP BI` | [old-projects/astrazeneca.md](./old-project
 AstraZeneca SAP BI | `SAP BI` | [old-projects/astrazeneca.md](./old-projects/astrazeneca.md)
 AstraZeneca Support | `CTMS` | [old-projects/astrazeneca.md](./old-projects/astrazeneca.md)
 
-## <a name="code"></a> Примеры кода
+## <a name="examples"></a> Примеры кода
 
 ## <a name="skills"></a> Навыки и технологии
 ### Code
