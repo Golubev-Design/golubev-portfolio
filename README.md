@@ -123,8 +123,8 @@ AstraZeneca Support | `CTMS` | [old-projects/astrazeneca.md](./old-projects/astr
 
 ## <a name="contacts"></a> Контакты
 
-<b>Александр Голубев</b> <br>
-FrontEnd Team Lead
+**Александр Голубев** <br>
+*FrontEnd Team Lead*
 
 Тел: +7 (926) 018-36-30 <br>
 Email: ruagbag@gmail.com <br>
