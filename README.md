@@ -61,7 +61,9 @@ AstraZeneca Support | `CTMS` | [old/astrazeneca.md](old/astrazeneca.md)
 + TypeScript
 + RxJS / Observable 
 + Promises
-+ HTML5 / SCSS
++ WebSocket
++ HTML5 / CSS
++ Препроцессоры LESS, SASS, SCSS
 
 ### Frameworks
 + Angular 2+
