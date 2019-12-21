@@ -1,11 +1,11 @@
 # Golubev Aleksandr
-### FrontEnd Team Lead
+### Frontend Developer
 В этом репозитории можно найти список проектов в которых я участвовал,
 ссылки на них и полную информацию по используемым в них технологиям. 
 
 ### Содержание:
 + [Проекты](#last)
-    + [Последние проекты (FrontEnd)](#last)
+    + [Последние проекты (Frontend)](#last)
         + Angular
         + React
         + Gulp   
@@ -28,7 +28,7 @@
 + [Контакты](#contacts)
 
 ## <a name="last"></a> Проекты
-### Последние проекты (FrontEnd 2018+)
+### Последние проекты (Frontend 2018+)
 Проект|Платформа|Мои часы <br>на проекте|О проекте
 :-----|---------|:---------------------:|---------
 [gov.design](http://gov.design/) |`Angular`|1200+| [last-projects/gov.design.md](./last-projects/gov.design.md)
@@ -125,7 +125,7 @@ AstraZeneca Support | `CTMS` | [old-projects/astrazeneca.md](./old-projects/astr
 ## <a name="contacts"></a> Контакты
 
 **Александр Голубев** <br>
-FrontEnd Team Lead
+Frontend Developer
 
 Тел: +7 (926) 018-36-30 <br>
 Email: ruagbag@gmail.com <br>
