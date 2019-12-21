@@ -45,6 +45,7 @@
 [cloudmakers.ru](https://cloudmakers.ru/) | `WordPress` | [old/cloudmakers.md](old/cloudmakers.md)
 [drsmart.me](https://drsmart.me/) | `WordPress` | [old/drsmart.md](old/drsmart.md)
 [sevmuseum.ru](http://sevmuseum.ru/) | `WordPress` | [old/sevmuseum.md](old/sevmuseum.md)
+[apgmag.com](http://apgmag.com/) | `WordPress` | [old/apgmag.md](old/apgmag.md)
 magazine.astellas.com | `WordPress` | [old/astellas.md](old/astellas.md)
 AstraZeneca Payment | `SAP BI` | [old/astrazeneca.md](old/astrazeneca.md)
 AstraZeneca KPI Monitor | `SAP BI` | [old/astrazeneca.md](old/astrazeneca.md)
