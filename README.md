@@ -29,7 +29,7 @@
 
 ## <a name="last"></a> Проекты
 ### Последние проекты (Frontend 2018+)
-Проект|Платформа|Мои часы <br>на проекте|О проекте
+Проект|Платформа|Мои часы <br>на проекте|О проекте и стеке
 :-----|---------|:---------------------:|---------
 [gov.design](http://gov.design/) |`Angular`|1200+| [last/gov.design.md](last/gov.design.md)
 [smena.me](http://smena.me/) |`Angular`| 400+ | [last/smena.md](last/smena.md)
@@ -40,7 +40,7 @@
 
 
 ### <a name="old"></a> Старые проекты (2010-2017)
-Проект|Платформа|О проекте
+Проект|Платформа|О проекте и стеке
 ------|---------|---------
 [cloudmakers.ru](https://cloudmakers.ru/) | `WordPress` | [old/cloudmakers.md](old/cloudmakers.md)
 [drsmart.me](https://drsmart.me/) | `WordPress` | [old/drsmart.md](old/drsmart.md)
