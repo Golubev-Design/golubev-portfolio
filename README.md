@@ -1,6 +1,6 @@
 # Golubev Aleksandr
 ### Frontend Developer
-В этом репозитории можно найти список проектов в которых я участвовал,
+В этом репозитории можно найти список проектов в которых я участвовал, <br>
 ссылки на них и полную информацию по используемым в них технологиям. 
 
 ### Содержание:
@@ -56,16 +56,43 @@ AstraZeneca Support | `CTMS` | [old/astrazeneca.md](old/astrazeneca.md)
 
 ## <a name="skills"></a> Навыки и технологии
 ### Code
-+ JavaScript
-+ ECMAScript 
-+ TypeScript
++ JavaScript, больше 6 лет
++ ECMAScript, больше 6 лет
++ TypeScript, больше 3 лет
++ HTML5 / CSS, больше 9 лет
++ Препроцессоры LESS, SASS, SCSS, больше 3 лет
++ PHP7, с 2012 по 2017
+
+### JS, ES, TS
 + RxJS / Observable 
 + Promises
 + WebSocket
-+ HTML5 / CSS
-+ Препроцессоры LESS, SASS, SCSS
++ @Decorators
++ this
++ functions vs class
++ class, constructor, public, private
++ XMLHttpRequest, fetch
++ Async
++ Event loop
++ Closures
++ lexical environment
++ Prototypes
++ Extends 
++ Implements
++ JS, ES, TS Modules
++ AJAX pattern
++ ES6+ (filter, sort, map, ... и т.д.)
 
-### Frameworks
+### Code Patterns
++ SOLID (ООП) 
++ COP
++ MVC 
++ RESTful
++ KISS
++ Functional programming
++ TDD
+
+### Frameworks & platforms
 + Angular 2+
   + Angular 7-9+
   + Angular browser development
@@ -76,7 +103,7 @@ AstraZeneca Support | `CTMS` | [old/astrazeneca.md](old/astrazeneca.md)
 + Node.js
 + React.js 16
 + Gulp 4
-+ JQuery / Ajax
++ JQuery
 
 ### Testing Frameworks
 + Protractor
@@ -91,7 +118,6 @@ AstraZeneca Support | `CTMS` | [old/astrazeneca.md](old/astrazeneca.md)
 ### CMS & BackEnd
 + WordPress
 + Bitrix
-+ PHP7
 
 ### Development & deploy
 + npm / yarn
@@ -103,7 +129,6 @@ AstraZeneca Support | `CTMS` | [old/astrazeneca.md](old/astrazeneca.md)
 + CI/CD pm2
 + CI/CD Protractor unit & e2e tests
 + Agile / Scrum / Kanban
-+ OOP / COP / MVC / SOLID / RESTful
 
 ### 3D Development
 + Three.JS (WebGL) 
