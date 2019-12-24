@@ -33,6 +33,7 @@ Habr Carrier:
     + 3D Development
     + Analytics
     + Design
+    + Agile
 
 ## <a name="last"></a> Проекты
 ### Последние проекты (Frontend 2018+)
@@ -139,7 +140,6 @@ AstraZeneca Support | `CTMS` |
 + CI/CD Node.js 
 + CI/CD pm2
 + CI/CD Protractor unit & e2e tests
-+ Agile / Scrum / Kanban
 
 ### 3D Development
 + Three.JS (WebGL) 
@@ -160,3 +160,9 @@ AstraZeneca Support | `CTMS` |
 + Figma
 + Photoshop
 + Sketch
+
+### Agile
++ Scrum
++ Kanban
++ Confluence
++ Jira
