@@ -1,9 +1,17 @@
 # Golubev Aleksandr
 ### Frontend Developer
+Тел: +7 (926) 018-36-30 <br>
+Email: ruagbag@gmail.com <br>
+VK: https://vk.com/id7015345 <br>
+Резюме на HH: https://hh.ru/resume/647fce3cff05ba8efe0039ed1f506263564e6f <br>
+Habr Carrier: 
+
 В этом репозитории можно найти список проектов в которых я участвовал, <br>
 ссылки на них и полную информацию по используемым в них технологиям. 
 
-### Содержание:
+##### Я в процессе наполнения этого портфолио, <br> оно будет полностью заполнено к 19 января 2020 года.
+
+### Содержание портфолио:
 + [Проекты](#last)
     + [Последние проекты (Frontend)](#last)
         + Angular
@@ -25,32 +33,35 @@
     + 3D Development
     + Analytics
     + Design
-+ [Контакты](#contacts)
 
 ## <a name="last"></a> Проекты
 ### Последние проекты (Frontend 2018+)
+Подробные страницы "О проекте и стеке" будут заполнены до 19 января 2020 года.
+
 Проект|Платформа|Мои часы <br>на проекте|О проекте и стеке
 :-----|---------|:---------------------:|---------
-[gov.design](http://gov.design/) |`Angular`|1200+| [last/gov.design.md](last/gov.design.md)
-[smena.me](http://smena.me/) |`Angular`| 400+ | [last/smena.md](last/smena.md)
-[standart.gov.design](http://standart.gov.design/) |`Angular`| 200+ | [last/standart.md](last/standart.md)
-[digital.ac.gov.ru](https://digital.ac.gov.ru/) |`Angular`| 300+ |[last/digital.ac.md](last/digital.ac.md)
-[digital.ac.gov.ru](https://digital.ac.gov.ru/) |`Gulp`| 60+ | [last/digital.ac.md](last/digital.ac.md)
-[rspp.ru](http://www.rspp.ru/) |`Gulp`| 300+ | [last/rspp.md](last/rspp.md)|
+[gov.design](http://gov.design/) |`Angular`|1200+| 
+[smena.me](http://smena.me/) |`Angular`| 400+ | 
+[standart.gov.design](http://standart.gov.design/) |`Angular`| 200+ | 
+[digital.ac.gov.ru](https://digital.ac.gov.ru/) |`Angular`| 300+ |
+[digital.ac.gov.ru](https://digital.ac.gov.ru/) |`Gulp`| 60+ | 
+[rspp.ru](http://www.rspp.ru/) |`Gulp`| 300+ | 
 
 
 ### <a name="old"></a> Старые проекты (2010-2017)
+Подробные страницы "О проекте и стеке" будут заполнены до 19 января 2020 года.
+
 Проект|Платформа|О проекте и стеке
 ------|---------|---------
-[cloudmakers.ru](https://cloudmakers.ru/) | `WordPress` | [old/cloudmakers.md](old/cloudmakers.md)
-[drsmart.me](https://drsmart.me/) | `WordPress` | [old/drsmart.md](old/drsmart.md)
-[sevmuseum.ru](http://sevmuseum.ru/) | `WordPress` | [old/sevmuseum.md](old/sevmuseum.md)
-[apgmag.com](http://apgmag.com/) | `WordPress` | [old/apgmag.md](old/apgmag.md)
-magazine.astellas.com | `WordPress` | [old/astellas.md](old/astellas.md)
-AstraZeneca Payment | `SAP BI` | [old/astrazeneca.md](old/astrazeneca.md)
-AstraZeneca KPI Monitor | `SAP BI` | [old/astrazeneca.md](old/astrazeneca.md)
-AstraZeneca SAP BI | `SAP BI` | [old/astrazeneca.md](old/astrazeneca.md)
-AstraZeneca Support | `CTMS` | [old/astrazeneca.md](old/astrazeneca.md)
+[cloudmakers.ru](https://cloudmakers.ru/) | `WordPress` |
+[drsmart.me](https://drsmart.me/) | `WordPress` |
+[sevmuseum.ru](http://sevmuseum.ru/) | `WordPress` |
+[apgmag.com](http://apgmag.com/) | `WordPress` |
+magazine.astellas.com | `WordPress` |
+AstraZeneca Payment | `SAP BI` |
+AstraZeneca KPI Monitor | `SAP BI` |
+AstraZeneca SAP BI | `SAP BI` |
+AstraZeneca Support | `CTMS` |
 
 ## <a name="examples"></a> Примеры кода
 
@@ -149,15 +160,3 @@ AstraZeneca Support | `CTMS` | [old/astrazeneca.md](old/astrazeneca.md)
 + Figma
 + Photoshop
 + Sketch
-
-## <a name="contacts"></a> Контакты
-
-**Александр Голубев** <br>
-Frontend Developer
-
-Тел: +7 (926) 018-36-30 <br>
-Email: ruagbag@gmail.com <br>
-VK: https://vk.com/id7015345 <br>
-Резюме на HH: https://hh.ru/resume/647fce3cff05ba8efe0039ed1f506263564e6f <br>
-Habr Carrier: 
-
