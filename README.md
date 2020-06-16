@@ -8,12 +8,17 @@ VK: https://vk.com/id7015345 <br>
 В этом репозитории можно найти список проектов в которых я участвовал, <br>
 ссылки на них и полную информацию по используемым в них технологиям. 
 
-## Проекты:
-### Последние проекты
+## Проекты
+### 2020 — Raiffeisen bank
 
-Проект|Платформа|Мои часы <br>на проекте|О проекте и стеке
-:-----|---------|:---------------------:|---------
+Проект|Платформа|Мои часы <br>на проекте|
+:-----|---------|:---------------------:|
 [online.raiffeisen.ru](https://online.raiffeisen.ru/) |`Angular`|800+| 
+
+### 2018-2019 — Gov.ru
+
+Проект|Платформа|Мои часы <br>на проекте|
+:-----|---------|:---------------------:|
 [gov.design](http://gov.design/) |`Angular`|1200+| 
 [smena.me](http://smena.me/) |`Angular`| 400+ | 
 [standart.gov.design](http://standart.gov.design/) |`Angular`| 200+ | 
@@ -21,15 +26,20 @@ VK: https://vk.com/id7015345 <br>
 [digital.ac.gov.ru](https://digital.ac.gov.ru/) |`Gulp`| 60+ | 
 [rspp.ru](http://www.rspp.ru/) |`Gulp`| 300+ | 
 
-### Проекты до 2018 года
+### 2017-2018 — Freelance
     
-Проект|Платформа|О проекте и стеке
-------|---------|---------
+Проект|Платформа|
+------|---------|
 [cloudmakers.ru](https://cloudmakers.ru/) | `WordPress` |
 [drsmart.me](https://drsmart.me/) | `WordPress` |
 [sevmuseum.ru](http://sevmuseum.ru/) | `WordPress` |
 [apgmag.com](http://apgmag.com/) | `WordPress` |
 magazine.astellas.com | `WordPress` |
+
+### 2014-2017 — AstraZeneca
+    
+Проект|Платформа|
+------|---------|
 AstraZeneca Payment | `SAP BI` |
 AstraZeneca KPI Monitor | `SAP BI` |
 AstraZeneca SAP BI | `SAP BI` |
