@@ -4,78 +4,40 @@
 Email: ruagbag@gmail.com <br>
 VK: https://vk.com/id7015345 <br>
 Резюме на HH: https://hh.ru/resume/647fce3cff05ba8efe0039ed1f506263564e6f <br>
-Habr Carrier: 
 
 В этом репозитории можно найти список проектов в которых я участвовал, <br>
 ссылки на них и полную информацию по используемым в них технологиям. 
 
-##### Я в процессе наполнения этого портфолио, <br> оно будет полностью заполнено к 19 января 2020 года.
+## Проекты:
+### Последние проекты (Frontend)
 
-### Содержание портфолио:
-+ [Проекты](#last)
-    + [Последние проекты (Frontend)](#last)
-        + Angular
-        + React
-        + Gulp   
-        + three.js (WebGL)
-    + [Старые проекты](#old)
-        + WordPress PHP7
-        + UX, UI Design
-        + SAP BI
-+ [Примеры кода](#examples)
-+ [Навыки и технологии](#skills)
-    + Code
-    + Frameworks
-    + Testing Frameworks
-    + ServerLess
-    + CMS & BackEnd
-    + Development & deploy
-    + 3D Development
-    + Analytics
-    + Design
-    + Agile
+    Проект|Платформа|Мои часы <br>на проекте|О проекте и стеке
+    :-----|---------|:---------------------:|---------
+    [online.raiffeisen.ru](https://online.raiffeisen.ru/) |`Angular`|800+| 
+    [gov.design](http://gov.design/) |`Angular`|1200+| 
+    [smena.me](http://smena.me/) |`Angular`| 400+ | 
+    [standart.gov.design](http://standart.gov.design/) |`Angular`| 200+ | 
+    [digital.ac.gov.ru](https://digital.ac.gov.ru/) |`Angular`| 300+ |
+    [digital.ac.gov.ru](https://digital.ac.gov.ru/) |`Gulp`| 60+ | 
+    [rspp.ru](http://www.rspp.ru/) |`Gulp`| 300+ | 
 
-## <a name="last"></a> Проекты
-### Последние проекты (Frontend 2018+)
-Подробные страницы "О проекте и стеке" будут заполнены до 19 января 2020 года.
+### Проекты до 2018
+    
+    Проект|Платформа|О проекте и стеке
+    ------|---------|---------
+    [cloudmakers.ru](https://cloudmakers.ru/) | `WordPress` |
+    [drsmart.me](https://drsmart.me/) | `WordPress` |
+    [sevmuseum.ru](http://sevmuseum.ru/) | `WordPress` |
+    [apgmag.com](http://apgmag.com/) | `WordPress` |
+    magazine.astellas.com | `WordPress` |
+    AstraZeneca Payment | `SAP BI` |
+    AstraZeneca KPI Monitor | `SAP BI` |
+    AstraZeneca SAP BI | `SAP BI` |
+    AstraZeneca Support | `CTMS` |
 
-Проект|Платформа|Мои часы <br>на проекте|О проекте и стеке
-:-----|---------|:---------------------:|---------
-[gov.design](http://gov.design/) |`Angular`|1200+| 
-[smena.me](http://smena.me/) |`Angular`| 400+ | 
-[standart.gov.design](http://standart.gov.design/) |`Angular`| 200+ | 
-[digital.ac.gov.ru](https://digital.ac.gov.ru/) |`Angular`| 300+ |
-[digital.ac.gov.ru](https://digital.ac.gov.ru/) |`Gulp`| 60+ | 
-[rspp.ru](http://www.rspp.ru/) |`Gulp`| 300+ | 
+## Навыки и технологии
 
-
-### <a name="old"></a> Старые проекты (2010-2017)
-Подробные страницы "О проекте и стеке" будут заполнены до 19 января 2020 года.
-
-Проект|Платформа|О проекте и стеке
-------|---------|---------
-[cloudmakers.ru](https://cloudmakers.ru/) | `WordPress` |
-[drsmart.me](https://drsmart.me/) | `WordPress` |
-[sevmuseum.ru](http://sevmuseum.ru/) | `WordPress` |
-[apgmag.com](http://apgmag.com/) | `WordPress` |
-magazine.astellas.com | `WordPress` |
-AstraZeneca Payment | `SAP BI` |
-AstraZeneca KPI Monitor | `SAP BI` |
-AstraZeneca SAP BI | `SAP BI` |
-AstraZeneca Support | `CTMS` |
-
-## <a name="examples"></a> Примеры кода
-
-## <a name="skills"></a> Навыки и технологии
-### Code
-+ JavaScript, больше 6 лет
-+ ECMAScript, больше 6 лет
-+ TypeScript, больше 3 лет
-+ HTML5 / CSS, больше 9 лет
-+ Препроцессоры LESS, SASS, SCSS, больше 3 лет
-+ PHP7, с 2012 по 2017
-
-### JS, ES, TS
+### JavaScript, ECMAScript, TypeScript
 + RxJS / Observable 
 + Promises
 + WebSocket
@@ -93,7 +55,7 @@ AstraZeneca Support | `CTMS` |
 + Implements
 + JS, ES, TS Modules
 + AJAX pattern
-+ ES6+ (filter, sort, map, ... и т.д.)
++ ES6+ (filter, sort, map, ... & ...)
 
 ### Code Patterns
 + SOLID (ООП) 
@@ -128,6 +90,7 @@ AstraZeneca Support | `CTMS` |
 + Firebase
 
 ### CMS & BackEnd
++ PHP7
 + WordPress
 + Bitrix
 
@@ -155,6 +118,12 @@ AstraZeneca Support | `CTMS` |
 + Google Analytics
 + Yandex Metrica
 + SEO
+
+### Layout
++ HTML5 / CSS
++ Препроцессоры LESS, SASS, SCSS
++ Perfect Pixel
++ Components & Variables
 
 ### Design
 + Figma
