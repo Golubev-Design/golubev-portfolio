@@ -9,31 +9,31 @@ VK: https://vk.com/id7015345 <br>
 ссылки на них и полную информацию по используемым в них технологиям. 
 
 ## Проекты:
-### Последние проекты (Frontend)
+### Последние проекты
 
-    Проект|Платформа|Мои часы <br>на проекте|О проекте и стеке
-    :-----|---------|:---------------------:|---------
-    [online.raiffeisen.ru](https://online.raiffeisen.ru/) |`Angular`|800+| 
-    [gov.design](http://gov.design/) |`Angular`|1200+| 
-    [smena.me](http://smena.me/) |`Angular`| 400+ | 
-    [standart.gov.design](http://standart.gov.design/) |`Angular`| 200+ | 
-    [digital.ac.gov.ru](https://digital.ac.gov.ru/) |`Angular`| 300+ |
-    [digital.ac.gov.ru](https://digital.ac.gov.ru/) |`Gulp`| 60+ | 
-    [rspp.ru](http://www.rspp.ru/) |`Gulp`| 300+ | 
+Проект|Платформа|Мои часы <br>на проекте|О проекте и стеке
+:-----|---------|:---------------------:|---------
+[online.raiffeisen.ru](https://online.raiffeisen.ru/) |`Angular`|800+| 
+[gov.design](http://gov.design/) |`Angular`|1200+| 
+[smena.me](http://smena.me/) |`Angular`| 400+ | 
+[standart.gov.design](http://standart.gov.design/) |`Angular`| 200+ | 
+[digital.ac.gov.ru](https://digital.ac.gov.ru/) |`Angular`| 300+ |
+[digital.ac.gov.ru](https://digital.ac.gov.ru/) |`Gulp`| 60+ | 
+[rspp.ru](http://www.rspp.ru/) |`Gulp`| 300+ | 
 
-### Проекты до 2018
+### Проекты до 2018 года
     
-    Проект|Платформа|О проекте и стеке
-    ------|---------|---------
-    [cloudmakers.ru](https://cloudmakers.ru/) | `WordPress` |
-    [drsmart.me](https://drsmart.me/) | `WordPress` |
-    [sevmuseum.ru](http://sevmuseum.ru/) | `WordPress` |
-    [apgmag.com](http://apgmag.com/) | `WordPress` |
-    magazine.astellas.com | `WordPress` |
-    AstraZeneca Payment | `SAP BI` |
-    AstraZeneca KPI Monitor | `SAP BI` |
-    AstraZeneca SAP BI | `SAP BI` |
-    AstraZeneca Support | `CTMS` |
+Проект|Платформа|О проекте и стеке
+------|---------|---------
+[cloudmakers.ru](https://cloudmakers.ru/) | `WordPress` |
+[drsmart.me](https://drsmart.me/) | `WordPress` |
+[sevmuseum.ru](http://sevmuseum.ru/) | `WordPress` |
+[apgmag.com](http://apgmag.com/) | `WordPress` |
+magazine.astellas.com | `WordPress` |
+AstraZeneca Payment | `SAP BI` |
+AstraZeneca KPI Monitor | `SAP BI` |
+AstraZeneca SAP BI | `SAP BI` |
+AstraZeneca Support | `CTMS` |
 
 ## Навыки и технологии
 
