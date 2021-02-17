@@ -9,11 +9,11 @@ VK: https://vk.com/id7015345 <br>
 ссылки на них и полную информацию по используемым в них технологиям. 
 
 ## Проекты
-### 2020 — Raiffeisen bank
+### 2020-2021 — Raiffeisen bank
 
 Проект|Платформа|Мои часы <br>на проекте|
 :-----|---------|:---------------------:|
-[online.raiffeisen.ru](https://online.raiffeisen.ru/) |`Angular`|800+| 
+[online.raiffeisen.ru](https://online.raiffeisen.ru/) |`Angular`|2000+| 
 
 ### 2018-2019 — Gov.ru
 
