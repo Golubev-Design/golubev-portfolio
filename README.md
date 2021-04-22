@@ -1,21 +1,21 @@
 # Golubev Aleksandr
-### Frontend Developer
+### Frontend Cross Platform Developer
 Тел: +7 (926) 018-36-30 <br>
 Email: ruagbag@gmail.com <br>
 VK: https://vk.com/id7015345 <br>
-Резюме на HH: https://hh.ru/resume/647fce3cff05ba8efe0039ed1f506263564e6f <br>
+Резюме на HH: https://hh.ru/resume/9efe3186ff079bed980039ed1f4f424e524751 <br>
 
-В этом репозитории можно найти список проектов в которых я участвовал, <br>
-ссылки на них и полную информацию по используемым в них технологиям. 
+Занимаюсь разработкой веб и кросс-платформенных приложений, SPA & PWA, serverless приложений и веб-сайтов.
 
 ## Проекты
-### 2020-2021 — Raiffeisen bank
+### 2020-2021
 
 Проект|Платформа|Мои часы <br>на проекте|
 :-----|---------|:---------------------:|
-[online.raiffeisen.ru](https://online.raiffeisen.ru/) |`Angular`|2000+| 
+[online.raiffeisen.ru](https://online.raiffeisen.ru/) |`Angular`|2500+| 
+[aic.ru](https://online.raiffeisen.ru/) |`Twill.io`|300+| 
 
-### 2018-2019 — Gov.ru
+### 2018-2019
 
 Проект|Платформа|Мои часы <br>на проекте|
 :-----|---------|:---------------------:|
@@ -26,7 +26,7 @@ VK: https://vk.com/id7015345 <br>
 [digital.ac.gov.ru](https://digital.ac.gov.ru/) |`Gulp`| 60+ | 
 [rspp.ru](http://www.rspp.ru/) |`Gulp`| 300+ | 
 
-### 2017-2018 — Freelance
+### 2017-2018
     
 Проект|Платформа|
 ------|---------|
@@ -36,7 +36,7 @@ VK: https://vk.com/id7015345 <br>
 [apgmag.com](http://apgmag.com/) | `WordPress` |
 magazine.astellas.com | `WordPress` |
 
-### 2014-2017 — AstraZeneca
+### 2014-2017
     
 Проект|Платформа|
 ------|---------|
@@ -102,6 +102,8 @@ AstraZeneca Support | `CTMS` |
 ### CMS & BackEnd
 + PHP7
 + WordPress
++ Laravel
++ Twill.io
 + Bitrix
 
 ### Development & deploy
